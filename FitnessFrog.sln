@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Blend for Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessFrog", "Treehouse.FitnessFrog\FitnessFrog.csproj", "{D6F7E536-7C34-46FC-A421-3069C9695D61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessFrog", "FitnessFrog\FitnessFrog.csproj", "{D6F7E536-7C34-46FC-A421-3069C9695D61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
