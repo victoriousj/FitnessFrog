@@ -21,9 +21,7 @@ namespace Treehouse.FitnessFrog.Models
         /// <summary>
         /// Default constructor.
         /// </summary>
-        public Entry()
-        {
-        }
+        public Entry() { }
 
         /// <summary>
         /// Constructor for easily creating entries.
